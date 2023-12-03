@@ -6,3 +6,4 @@ Within the context of human resources (HR), attrition is a reduction in the work
 Now the Dataset belongs to a very fast-growing company. This company has witnessed several employees leaving the company in the last 3 years. The company’s HR team has always been reactive to attrition but now the team wants to be proactive and wished to predict attrition of employees using the data they have in hand. 
  
 The goal here is to predict whether an employee will leave the company based upon the various variables given in the dataset.
+
