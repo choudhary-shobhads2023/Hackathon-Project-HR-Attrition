@@ -7,3 +7,7 @@ Now the Dataset belongs to a very fast-growing company. This company has witness
  
 The goal here is to predict whether an employee will leave the company based upon the various variables given in the dataset.
 
+# Accuracy Obtained : 0.9920152 (99.20%)
+
+# Achievement
+  * Holding Rank 10 
